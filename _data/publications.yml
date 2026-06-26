@@ -1,0 +1,31 @@
+main:
+
+  - title: "Memory Forcing Spatio-Temporal Memory for Consistent Scene Generation on Minecraft"
+    authors: Junchao Huang, <strong>Xinting Hu</strong>, Boyao Han, Shaoshuai Shi, Zhuotao Tian, Tianyu He, Li Jiang
+    conference_short: arxiv
+    
+    image: ../assets/pub01.png
+    pdf: https://arxiv.org/pdf/2510.03198
+    page: https://junchao-cs.github.io/MemoryForcing-demo/
+    bibtex: ../assets/pub01_bibtex.txt
+
+  - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
+    authors: Yongliang Wu, Zonghui Li, <strong>Xinting Hu#</strong>, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang
+    conference_short: NeurIPS
+    conference: NeurIPS 2025 Datasets and Benchmarks Track.
+    
+    image: ../assets/pub02.png
+    pdf: https://arxiv.org/PDF/2505.16707
+    page: https://yongliang-wu.github.io/kris_bench_project_page/
+    bibtex: ../assets/pub02_bibtex.txt
+
+  - title: "Edit360: 2D Image Edits to 3D Assets from Any Angle"
+    authors: Junchao Huang, <strong>Xinting Hu</strong>, Zhuotao Tian, Shaoshuai Shi, Li Jiang
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision (ICCV), 2025.
+    
+    image: ../assets/pub03.png
+    pdf: https://arxiv.org/pdf/2506.10507
+    page: https://junchao-cs.github.io/Edit360-demo/
+    bibtex: ../assets/pub03_bibtex.txt
+

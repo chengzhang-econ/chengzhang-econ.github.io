@@ -1,0 +1,16 @@
+main:
+
+  #- title: "Posts"
+  #  url: talks/
+
+  #- title: "Services"
+  #  url: services/
+
+  #- title: "Group"
+  #  url: https://cvmi.hku.hk/wp-content/uploads/cvmi/index.html
+
+  - title: "Research"
+    url: publications/
+
+  - title: "Home"
+    url: ./
