@@ -1,6 +1,6 @@
 # Basic Information 
 title: Cheng Zhang
-position: Ph.D. Candidate in Economics
+position: Ph.D. Candidate
 affiliation: China Agricultural University
 affiliation_link: https://cem.cau.edu.cn/
 affiliation_logo:
@@ -8,11 +8,11 @@ email: zhangcheng@cau.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: Cheng Zhang, Zhang Cheng, agricultural economics, development economics, China Agricultural University
-#canonical: https://yaoyaoliu.web.illinois.edu
+#canonical: https://jackiechengzhang.github.io
 description: Cheng Zhang is a Ph.D. candidate in economics at China Agricultural University.
 url: https://jackiechengzhang.github.io
 
-# The option is used to enable the Illinois template.
+# The option is used to enable a school logo in the header.
 enable_hopkins_logo: false
 
 # The option is used to show the last update time.
@@ -27,7 +27,7 @@ github_link: https://github.com/JackieChengZhang
 
 # Images 
 #avatar: https://img.yliu.me/avatar_new.jpg
-avatar: ../assets/profile.jpg
+avatar: /assets/profile.jpg
 
 # Footnotes
 footnote: This homepage is inspired by Xin Lin's homepage and adapted from Yaoyao Liu's Minimal Light template. Thanks for sharing the source code!
@@ -43,6 +43,5 @@ exclude:
   - build.sh
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
   - CNAME

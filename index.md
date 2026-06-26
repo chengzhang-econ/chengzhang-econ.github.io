@@ -8,13 +8,12 @@ layout: homepage
 
 Hello! I am a Ph.D. candidate in economics at the College of Economics and
 Management, China Agricultural University. My research interests are
-agricultural economics, development economics, and agricultural industrial
-organization.
+***agricultural economics, development economics, and agricultural industrial
+organization***.
 
-My current research focuses on the marketization of agricultural factor markets,
-smallholders' climate adaptation, and the evolution of agricultural
-mechanization service markets, especially the role of digital platforms in
-organizing service provision.
+My current research focuses on the evolution of agricultural mechanization
+service markets, especially the role of digital platforms in organizing service
+provision.
 
 If you are interested in any aspect of my work, please feel free to contact me
 via email: [zhangcheng@cau.edu.cn](mailto:zhangcheng@cau.edu.cn).  
@@ -27,7 +26,7 @@ via email: [zhangcheng@cau.edu.cn](mailto:zhangcheng@cau.edu.cn).
 
 ## Conferences and Workshops
 ------
-- 2026.07.26-28 Presenter, Agricultural & Applied Economics Association Annual Meeting, Kansas City, Missouri, USA
+- 2026.07 Presenter, Agricultural & Applied Economics Association (AAEA) Annual Meeting, Kansas City, Missouri, USA
 - 2024.10 Presenter, 2024 CAER-IFPRI Annual Conference, "Insurance and Finance" session, Changsha, Hunan
 - 2024.09 Presenter, 11th Cooperative Economic Development Forum, "Green Agricultural Development" session, Zhengzhou, Henan
 - 2024.09 Presenter, 2024 Annual Conference of Agricultural and Forestry Economics and Management, "Agricultural Insurance" session, Kunming, Yunnan
