@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /assets/academicons/
+Disallow: /assets/css/
+Disallow: /assets/fonts/
+Disallow: /assets/fontawesome/
+Disallow: /assets/js/
+Disallow: /404.html
+Disallow: /LICENSE
+Disallow: /.gitignore
+Disallow: /.github/
+Disallow: /README.md
+
+Sitemap: https://jackiechengzhang.github.io/sitemap.xml
