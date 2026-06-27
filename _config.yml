@@ -8,9 +8,9 @@ email: zhangcheng@cau.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: Cheng Zhang, Zhang Cheng, agricultural economics, development economics, China Agricultural University
-#canonical: https://chengzhang-econ.github.io
+#canonical: https://chengzhang-econ.github.io/
 description: Cheng Zhang is a Ph.D. candidate in economics at China Agricultural University.
-url: https://chengzhang-econ.github.io
+url: https://chengzhang-econ.github.io/
 
 # The option is used to enable a school logo in the header.
 enable_hopkins_logo: false
@@ -21,7 +21,7 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=sOxq8S0AAAAJ&hl=zh-CN
-github_link: github_link: https://github.com/chengzhang-econ
+github_link: github_link: https://github.com/chengzhang-econ/
 #linkedin: https://www.linkedin.com/in/xinting-hu-88a776b4/
 #twitter: https://x.com/kaleidudu?s=21
 
