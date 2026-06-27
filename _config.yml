@@ -22,6 +22,7 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=sOxq8S0AAAAJ&hl=zh-CN
 github_link: https://github.com/chengzhang-econ
+wechat_qrcode: /assets/img/wechat_qrcode.png
 #linkedin: https://www.linkedin.com/in/xinting-hu-88a776b4/
 #twitter: https://x.com/kaleidudu?s=21
 
