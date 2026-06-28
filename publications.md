@@ -7,7 +7,7 @@ permalink: /publications/
 Publications in English
 ------
 
-1. **[Understanding the Effect of Agricultural Irrigation Infrastructure Failures on Cropland Abandonment in Rural China.](https://onlinelibrary.wiley.com/doi/full/10.1111/rode.70018)** **Cheng Zhang**, Jingshuai Chen, Li Xue, and Qing Han. *Review of Development Economics*, 2026, 30, no. 1: 588–602.
+1. **[Understanding the Effect of Agricultural Irrigation Infrastructure Failures on Cropland Abandonment in Rural China.](https://onlinelibrary.wiley.com/doi/full/10.1111/rode.70018)** **Cheng Zhang**, Jingshuai Chen, Li Xue, and Qing Han. *Review of Development Economics*, 2026, 30: 588–602.
 
 2. **[Participation in Land Rental and Labor Markets and Agricultural Economic Performance of Banana Farmers in China.](https://www.sciencedirect.com/science/article/pii/S0264837724002606)** **Cheng Zhang**, Kunxi Nie, and Yueji Zhu. *Land Use Policy*, 2024, 107307.
 
