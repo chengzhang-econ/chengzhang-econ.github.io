@@ -8,7 +8,7 @@ layout: homepage
 
 Hello! I am a third-year Ph.D. candidate in economics at the College of Economics and
 Management, China Agricultural University. My research interests are
-***Agricultural Economics, Development Economics, and AgrO-IO***.
+***Agricultural Economics, Development Economics, and Agro-IO***.
 
 My current research focuses on the evolution of agricultural mechanization
 service markets, and the role of digital platforms in organizing service
