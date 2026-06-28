@@ -15,6 +15,8 @@ Publications
 
 - Mengmeng Chen, Qing Han, and **Cheng Zhang**. "[Valuing the Effect of Capital Goes to Countryside on Cropland Abandonment: Evidence from Rural China.](https://www.sciencedirect.com/science/article/pii/S0197397525000153)" *Habitat International*.
 
+- Mengqiu Yuan, Xuemin Bi, **Cheng Zhang**, and Qing Han. "[The impact of online negative consumer reviews on food purchase intention in China: Do product category and green certification matter?]([https://www.sciencedirect.com/science/article/pii/S0197397525000153](https://www.emerald.com/apjml/article-abstract/doi/10.1108/APJML-06-2025-1212/1319060/The-impact-of-online-negative-consumer-reviews-on?redirectedFrom=fulltext))" *Asia Pacific Journal of Marketing and Logistics*.
+
 ### 2024
 
 - **Cheng Zhang**, Kunxi Nie, and Yueji Zhu. "[Participation in Land Rental and Labor Markets and Agricultural Economic Performance of Banana Farmers in China.](https://www.sciencedirect.com/science/article/pii/S0264837724002606)" *Land Use Policy*.
@@ -31,11 +33,18 @@ Publications
 
 - Yueji Zhu, Qi Yang, and **Cheng Zhang**. "[Adaptation Strategies and Land Productivity of Banana Farmers under Climate Change in China.](https://www.sciencedirect.com/science/article/pii/S2212096321000978)" *Climate Risk Management*.
 
+Working Paper
+------
+
+- Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China. Submitted.
+
+- Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China. Submitted.
+
+- Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China. Submitted.
+
 Work in Progress
 ------
 
-- **Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China**
-
-- **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China**
-
-- **Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China**
+- Agricultural Machinery Purchase Subsidies, Service-Market Structure, and Farmers’ Welfare
+- Agricultural Mechanization and Dietary Energy Gap (Overflow)
+- Environmental Regulation and High-fat food intake
