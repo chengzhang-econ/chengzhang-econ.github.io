@@ -8,7 +8,7 @@ layout: homepage
 
 Hello! I am a fourth-year Ph.D. candidate in economics at the College of Economics and
 Management, China Agricultural University. My research interests are
-***Agricultural and Resource Economics, IO in Agriculture, Platform Economics, and Food and Health Economics***. A large fraction of my work focuses on the evolution of agricultural mechanization
+***Agricultural and Resource Economics, IO in Agriculture, Platform Economics, and Food and Health Economics***. A large fraction of my current work focuses on the evolution of agricultural mechanization
 service markets, and the role of digital platforms in organizing service
 provision. If you are interested in any aspect of my work, please feel free to contact me
 via email: [zhangcheng@cau.edu.cn](mailto:zhangcheng@cau.edu.cn).  
