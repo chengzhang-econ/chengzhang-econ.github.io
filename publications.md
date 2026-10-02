@@ -31,11 +31,13 @@ Publications in Chinese
 Working Papers
 ------
 
-1. **Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China.** Submitted.
+1. **Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China.** (Agricultural Economics, R&R).
 
-2. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** Submitted.
+2. **Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China.** (Environmental and Development Economics, Under Review).
 
-3. **Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China.** Submitted.
+3. **Cleaner Air, Higher-Fat Diets: Health Trade-offs from Environmental Regulation in Rural China.** (Journal of Health Economics, Under Review).
+
+4. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** Submitted.
 
 Work in Progress
 ------
@@ -44,4 +46,4 @@ Work in Progress
 
 2. **Agricultural Machinery Purchase Subsidies and Dietary Energy Gap (Overflow).**
 
-3. **Environmental Regulation and High-Fat Diets.**
+3. **County-to-district conversion (CTDC) reform and Firm Dynamics**
