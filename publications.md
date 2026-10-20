@@ -31,13 +31,13 @@ Publications in Chinese
 Working Papers
 ------
 
-1. **Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China.** (Agricultural Economics, R&R).
+1. **Heterogeneous Market-Structure Responses to Agricultural Machinery Purchase Subsidies: Evidence from the Agricultural Mechanization Service Sector in China.** (Agricultural Economics, R&R, First author).
 
-2. **Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China.** (Environmental and Development Economics, Under Review).
+2. **Get Back on Track! The Effect of Crop Insurance on Hidden Land Abandonment in China.** (Environmental and Development Economics, Under Review, First author).
 
-3. **Cleaner Air, Higher-Fat Diets: Health Trade-offs from Environmental Regulation in Rural China.** (Journal of Health Economics, Under Review).
+3. **Cleaner Air, Higher-Fat Diets: Health Trade-offs from Environmental Regulation in Rural China.** (Journal of Health Economics, Under Review, First author).
 
-4. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** (China Economic Review, Under Review).
+4. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** (China Economic Review, Under Review, First author).
 
 Work in Progress
 ------
