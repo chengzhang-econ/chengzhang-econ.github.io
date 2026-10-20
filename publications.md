@@ -37,7 +37,7 @@ Working Papers
 
 3. **Cleaner Air, Higher-Fat Diets: Health Trade-offs from Environmental Regulation in Rural China.** (Journal of Health Economics, Under Review).
 
-4. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** Submitted.
+4. **Uber for Agricultural Mechanization Services: Digital Platforms, Firm Dynamics, and Farmer Benefits in China.** (China Economic Review, Under Review).
 
 Work in Progress
 ------
